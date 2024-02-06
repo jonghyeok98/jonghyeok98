@@ -1,4 +1,4 @@
-![image](https://github.com/jonghyeok98/jonghyeok98/assets/77715064/57c931cd-afdc-498f-9d5a-983cf0645aa2)<div align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=GamzaTori&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
