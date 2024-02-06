@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/jonghyeok98/jonghyeok98/assets/77715064/57c931cd-afdc-498f-9d5a-983cf0645aa2)<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=GamzaTori&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
@@ -32,7 +32,8 @@
 
 <br><br>
 
-[![GamzaTori's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeok98&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/jonghyeok98/github-readme-stats)
+![GamzaTori's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeok98&include_all_commits=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeok98&layout=compact&theme=tokyonight)
 
 </div>
 
